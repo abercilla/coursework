@@ -3,13 +3,13 @@
 
 def reverse_words(sent)
 array = sent.split(" ") #split string into array
-new_array = []
+new_array = [] #set an empty array to shovel words into
   
-  array.each do |word|
-   new_array << word.reverse
+  array.each do |word| #iterate through every word in the array
+   new_array << word.reverse #reverse the word and shovel into empty array
   end 
 
-return new_array.join(" ")
+return new_array.join(" ") #return the new array as a string once done iterating
   
 end
 
