@@ -1,3 +1,3 @@
 # coursework
 
-Very simple programs I've completed through App Academy. 
+Simple programs I completed in Ruby and Python through App Academy Open and Coursera's "Programming for Everybody (Getting Started with Python)". 
